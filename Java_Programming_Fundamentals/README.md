@@ -9,7 +9,7 @@ Multi-threaded
 Object Oriented
 
 Two key editions of Java
-1. Java Standard Edition(SE)    : To learn Java programming Fundamentals
+1. Java Standard Edition(SE)    : Provides of core functionality of the Java Programming Language  It defines everything from the basic types and objects of the Java programming language to high-level classes.
 2. Java Enterprise Edition((EE) : Consists of Libraries for building core Java applications
 
 Java development kit : Java SE is actually a (JDK)comprises of :
