@@ -1,0 +1,16 @@
+package operators;
+
+public class OrOperator {
+	public static void main(String[] args) {
+		double balance = 500;
+		System.out.println("Amount to withdraw");
+		double amount = 1500;
+
+		if (amount < 0 || amount > balance) {
+			System.out.println("Withdrawal has failed");
+		} else {
+			balance -= amount;
+			System.out.println("Withdrawal has succeeded");
+		}
+	}
+}
