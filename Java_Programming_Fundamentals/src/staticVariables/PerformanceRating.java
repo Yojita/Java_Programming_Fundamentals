@@ -1,7 +1,5 @@
 package staticVariables;
 
-import java.awt.Point;
-
 public class PerformanceRating {
 	private static final int Outstanding = 5;
 	private static final int Good = 4;
