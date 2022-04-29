@@ -1,6 +1,6 @@
 # Interface
 
-An interface define contract for a class
+An interface define contract for a class.
 
 Objects can't be created for interface and an interface cannot have private or protected members.
 
